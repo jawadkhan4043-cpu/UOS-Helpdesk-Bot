@@ -1,0 +1,52 @@
+[
+  {
+    "intent": "hostel",
+    "keywords": ["hostel", "hostels", "dorm", "dormitory", "accommodation", "mess", "boarding", "provost"],
+    "reply": "Hostel accommodation is available for registered students, with separate hostels for male and female students. Seats are limited and are given on merit and availability, so apply as soon as your admission is confirmed. To apply, submit the hostel application form to the Hostel Office with your admission letter or fee challan, a copy of your CNIC or B-Form, and passport size photos. Hostel dues and mess charges are separate from your tuition fee and are paid when you take a room. Residents must follow the hostel rules on entry and exit timings, visitors and room care, and they must clear all dues before leaving."
+  },
+  {
+    "intent": "scholarship",
+    "keywords": ["scholarship", "scholarships", "financial aid", "financial assistance", "need based", "stipend", "waiver", "concession", "hec", "hafiz", "endowment"],
+    "reply": "The university offers financial support in two main ways. Merit-based awards go to students with strong academic results, and need-based support goes to deserving students who cannot afford full fees. Support linked to government and HEC programs is also available, along with special seats or concessions for categories such as Hafiz-e-Quran, students with disabilities and children of employees. To apply, fill in the scholarship form at the Scholarship or Financial Aid Office with your result card, income proof or salary certificate, a copy of your CNIC and a recent fee challan. Scholarships are usually reviewed by a committee and renewed each semester based on your CGPA and conduct."
+  },
+  {
+    "intent": "transport",
+    "keywords": ["transport", "bus", "buses", "point", "points", "pick and drop", "pick up", "shuttle", "route", "routes", "van"],
+    "reply": "The university runs a point (bus) service that connects the main campus with nearby areas of Sargodha and surrounding towns. To use it, register at the Transport Office and pay the transport charges, which are separate from tuition and hostel fees. You will get a transport card or slip that you must carry on every trip. Routes and pickup times are fixed by the Transport Office, so confirm your route and stop there. Transport charges depend on the distance of your route."
+  },
+  {
+    "intent": "sports",
+    "keywords": ["sports", "sport", "cricket", "football", "gym", "ground", "grounds", "tournament", "tournaments", "athletics", "team", "teams", "games"],
+    "reply": "The Directorate of Sports organizes games and fitness activities for students. Facilities usually include grounds for cricket and football, courts for games like volleyball and badminton, an indoor games area and a gym. Students can try out for university teams, and selected players represent the university in inter-varsity and national tournaments. The university also holds an annual sports gala and department-level events. To join, contact the Sports Office with your student ID card and register your game of choice. Outstanding players may get benefits such as sports scholarships or fee concessions, so ask the Sports Office about eligibility."
+  },
+  {
+    "intent": "library",
+    "keywords": ["library", "librarian", "book", "books", "borrow", "borrowing", "journal", "journals", "reading room", "fine", "fines", "e-library"],
+    "reply": "The central library holds textbooks, reference books, research journals, theses and past material for all departments. It has a reading hall for quiet study, and digital resources are available through the HEC digital library for registered students. To borrow books, you need your student ID card and library membership, and the number of books and the loan period are set by library rules. Return or renew books before the due date, because late returns carry a fine and lost books must be replaced or paid for. Reference books and journals are generally for use inside the library only."
+  },
+  {
+    "intent": "exam",
+    "keywords": ["exam", "exams", "examination", "examinations", "result", "results", "datesheet", "date sheet", "paper", "papers", "gpa", "cgpa", "grade", "grades", "marks", "transcript", "recheck", "rechecking"],
+    "reply": "Exams are held in the mid-term and final-term format each semester, and the date sheet is announced by the Controller of Examinations or your department before the exams begin. Results are generally published after the final exams, and your GPA and CGPA are calculated from your course grades. If you believe there is a mistake in your marks, you can apply for rechecking within the notified period by submitting an application and the prescribed fee. Degrees and transcripts are issued by the Examination Section after you complete your program and clear all dues, so apply with your ID card, a copy of your CNIC and the required fee."
+  },
+  {
+    "intent": "fee",
+    "keywords": ["fee", "fees", "tuition", "challan", "challans", "dues", "installment", "installments", "refund", "payment", "pay", "late fee"],
+    "reply": "Your fee depends on your program and shift, and the exact amount is printed on your fee challan. You pay at the bank branch named on the challan, or through the bank's online and mobile banking options if the university has enabled them. The fee is paid each semester before the due date, and a late fee applies if you miss it. If you cannot pay the full amount at once, you can apply to the Accounts Office or your department for installments, with proof of your situation. Refunds are made only in the cases covered by university rules, such as withdrawal within the notified period, so apply in writing to the Accounts Office and keep your paid challan."
+  },
+  {
+    "intent": "admission",
+    "keywords": ["admission", "admissions", "apply", "applying", "application", "merit", "merit list", "eligibility", "entry test", "enroll", "enrol", "enrollment", "seat", "seats", "last date", "deadline", "document", "documents", "required documents", "attested", "attestation", "checklist", "domicile", "id card", "student card", "lost card", "duplicate card", "roll number", "roll no", "registration number"],
+    "reply": "The university normally announces admissions twice a year, for the Fall session and the Spring session. First, check the admission notice for your program and its eligibility rules. Second, apply online through the admission portal and upload your documents. Third, pay the application processing fee through the challan and sit the entry test if your program requires one. Fourth, wait for the merit list, then submit your original documents and the first semester fee within the given dates. Documents usually needed are attested copies of your Matric and Intermediate certificates (and your Bachelor's degree for master's programs), your latest result card, a copy of your CNIC or B-Form, a domicile certificate, passport size photos and the fee challan. Once your admission is confirmed and the fee is paid, you receive your registration number and student ID card, which you need for the library, transport and exams. If you lose the card, apply with a copy of your CNIC and pay the duplicate card charges. Always follow the last date in the admission notice, because late applications are not accepted."
+  },
+  {
+    "intent": "programs",
+    "keywords": ["program", "programs", "programme", "programmes", "department", "departments", "degree", "degrees", "course", "courses", "bs", "ms", "mphil", "phd", "subjects", "faculty", "duration"],
+    "reply": "The University of Sargodha offers a wide range of programs through its faculties and departments, covering areas such as sciences, engineering and technology, social sciences, arts and humanities, law, management and commerce, and pharmacy and health sciences. Programs run at the undergraduate level (BS), master's level (MA, MSc, MS or MPhil) and doctoral level (PhD). A BS program usually takes four years, while a master's program usually takes two years. Available programs and seats change from one session to the next, so check the current admission notice or ask the department office before applying."
+  },
+  {
+    "intent": "contact",
+    "keywords": ["contact", "phone", "telephone", "number", "email", "mail", "address", "location", "where is", "reach", "helpline", "complaint", "complaints", "timing", "timings", "office hours", "working hours", "open", "opening", "close", "closing", "what time", "weekend", "holiday", "holidays", "off day"],
+    "reply": "The main campus is in Sargodha, Punjab, and the university also runs sub-campuses in other cities. For admissions, fees, hostels and exams, visit the relevant office in the administration block during working hours. The Admission Office handles new applicants, the Accounts Office handles fees, the Hostel Office handles room allotment and the Examination Section handles results. Offices generally work Monday to Friday during regular daytime hours and are closed on weekends and public holidays, though hours may be extended during admission and exam periods. Class timings differ by department and shift, so check your timetable. For a complaint or suggestion, submit a written application to the Registrar's Office or speak to your department chairperson. Official phone numbers and email addresses are printed on the university's admission notices and official notice boards."
+  }
+]
